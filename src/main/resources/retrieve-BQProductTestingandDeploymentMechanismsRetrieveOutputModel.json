@@ -1,0 +1,26 @@
+{
+  "productTestingandDeploymentMechanismsPreconditions" : "productTestingandDeploymentMechanismsPreconditions",
+  "productTestingandDeploymentMechanismsRetrieveActionResponse" : "productTestingandDeploymentMechanismsRetrieveActionResponse",
+  "productTestingandDeploymentMechanismsServiceInputsandOuputs" : "productTestingandDeploymentMechanismsServiceInputsandOuputs",
+  "productTestingandDeploymentMechanismsServiceWorkProduct" : "productTestingandDeploymentMechanismsServiceWorkProduct",
+  "productTestingandDeploymentMechanismsInstanceReport" : {
+    "productTestingandDeploymentMechanismsInstanceReport" : {},
+    "productTestingandDeploymentMechanismsInstanceReportParameters" : "productTestingandDeploymentMechanismsInstanceReportParameters",
+    "productTestingandDeploymentMechanismsInstanceReportRecord" : {},
+    "productTestingandDeploymentMechanismsInstanceReportType" : "productTestingandDeploymentMechanismsInstanceReportType"
+  },
+  "productTestingandDeploymentMechanismsVersionNumber" : "productTestingandDeploymentMechanismsVersionNumber",
+  "productTestingandDeploymentMechanisms" : "productTestingandDeploymentMechanisms",
+  "productTestingandDeploymentMechanismsServiceType" : "productTestingandDeploymentMechanismsServiceType",
+  "productTestingandDeploymentMechanismsServiceDescription" : "productTestingandDeploymentMechanismsServiceDescription",
+  "productTestingandDeploymentMechanismsInstanceAnalysis" : {
+    "productTestingandDeploymentMechanismsInstanceAnalysisRecord" : {},
+    "productTestingandDeploymentMechanismsInstanceAnalysisReportType" : "productTestingandDeploymentMechanismsInstanceAnalysisReportType",
+    "productTestingandDeploymentMechanismsInstanceAnalysisReport" : {},
+    "productTestingandDeploymentMechanismsInstanceAnalysisParameters" : "productTestingandDeploymentMechanismsInstanceAnalysisParameters"
+  },
+  "productTestingandDeploymentMechanismsServiceName" : "productTestingandDeploymentMechanismsServiceName",
+  "productTestingandDeploymentMechanismsRetrieveActionTaskReference" : "PTADMRATR728357",
+  "productTestingandDeploymentMechanismsSpecificationSchedule" : "productTestingandDeploymentMechanismsSpecificationSchedule",
+  "productTestingandDeploymentMechanismsRetrieveActionTaskRecord" : {}
+}

@@ -1,0 +1,39 @@
+{
+  "iTStandardsAndGuidelinesRetrieveActionTaskRecord" : {},
+  "iTStandardsAndGuidelinesRetrieveActionRecord" : {
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "iTStandardsAndGuidelinesActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    },
+    "iTStandardsAndGuidelinesPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    }
+  },
+  "iTStandardsAndGuidelinesRetrieveActionResponse" : "iTStandardsAndGuidelinesRetrieveActionResponse",
+  "iTStandardsAndGuidelinesRetrieveActionTaskReference" : "SRATR795161",
+  "iTStandardsAndGuidelinesOfferedService" : {
+    "iTStandardsAndGuidelinesServiceReference" : "776158",
+    "iTStandardsAndGuidelinesServiceRecord" : {
+      "iTStandardsAndGuidelinesServiceVersion" : "iTStandardsAndGuidelinesServiceVersion",
+      "iTStandardsAndGuidelinesServiceDescription" : "iTStandardsAndGuidelinesServiceDescription",
+      "iTStandardsAndGuidelinesServicePoliciesandGuidelines" : {
+        "iTStandardsAndGuidelinesServiceEligibility" : "iTStandardsAndGuidelinesServiceEligibility",
+        "iTStandardsAndGuidelinesServicePricingandTerms" : "iTStandardsAndGuidelinesServicePricingandTerms",
+        "iTStandardsAndGuidelinesServiceIntendedUses" : "iTStandardsAndGuidelinesServiceIntendedUses"
+      },
+      "iTStandardsAndGuidelinesServiceType" : "iTStandardsAndGuidelinesServiceType",
+      "iTStandardsAndGuidelinesServiceSchedule" : "iTStandardsAndGuidelinesServiceSchedule"
+    }
+  }
+}

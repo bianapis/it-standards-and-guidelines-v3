@@ -1,0 +1,15 @@
+{
+  "iTPoliciesandGuidelinesServiceDescription" : "iTPoliciesandGuidelinesServiceDescription",
+  "iTPoliciesandGuidelines" : "iTPoliciesandGuidelines",
+  "iTPoliciesandGuidelinesCaptureActionTaskReference" : "IAGCATR756118",
+  "iTPoliciesandGuidelinesServiceName" : "iTPoliciesandGuidelinesServiceName",
+  "iTPoliciesandGuidelinesVersionNumber" : "iTPoliciesandGuidelinesVersionNumber",
+  "iTPoliciesandGuidelinesServiceInputsandOuputs" : "iTPoliciesandGuidelinesServiceInputsandOuputs",
+  "iTPoliciesandGuidelinesPreconditions" : "iTPoliciesandGuidelinesPreconditions",
+  "iTPoliciesandGuidelinesCaptureRecordReference" : "IAGCRR710487",
+  "iTPoliciesandGuidelinesSpecificationSchedule" : "iTPoliciesandGuidelinesSpecificationSchedule",
+  "iTPoliciesandGuidelinesCaptureActionTaskRecord" : {},
+  "iTPoliciesandGuidelinesServiceType" : "iTPoliciesandGuidelinesServiceType",
+  "iTPoliciesandGuidelinesServiceWorkProduct" : "iTPoliciesandGuidelinesServiceWorkProduct",
+  "captureResponseRecord" : {}
+}

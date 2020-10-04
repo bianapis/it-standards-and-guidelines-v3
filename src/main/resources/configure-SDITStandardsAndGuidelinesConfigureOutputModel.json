@@ -1,0 +1,21 @@
+{
+  "iTStandardsAndGuidelinesConfigurationActionTaskReference" : "SCATR765419",
+  "iTStandardsAndGuidelinesServicingSessionStatus" : "iTStandardsAndGuidelinesServicingSessionStatus",
+  "iTStandardsAndGuidelinesConfigurationActionTaskRecord" : {},
+  "iTStandardsAndGuidelinesServiceConfigurationRecord" : {
+    "iTStandardsAndGuidelinesServiceStatus" : "iTStandardsAndGuidelinesServiceStatus",
+    "iTStandardsAndGuidelinesServiceConfigurationSettingDescription" : "iTStandardsAndGuidelinesServiceConfigurationSettingDescription",
+    "iTStandardsAndGuidelinesServiceConfigurationSetup" : {
+      "iTStandardsAndGuidelinesServiceConfigurationParameter" : "iTStandardsAndGuidelinesServiceConfigurationParameter"
+    },
+    "iTStandardsAndGuidelinesServiceSubscription" : {
+      "iTStandardsAndGuidelinesServiceSubscriberReference" : "756221",
+      "iTStandardsAndGuidelinesServiceSubscriberAccessProfile" : "iTStandardsAndGuidelinesServiceSubscriberAccessProfile"
+    },
+    "iTStandardsAndGuidelinesServiceAgreement" : {
+      "iTStandardsAndGuidelinesServiceUserReference" : "733696",
+      "iTStandardsAndGuidelinesServiceAgreementTermsandConditions" : "iTStandardsAndGuidelinesServiceAgreementTermsandConditions",
+      "iTStandardsAndGuidelinesServiceAgreementReference" : "721156"
+    }
+  }
+}

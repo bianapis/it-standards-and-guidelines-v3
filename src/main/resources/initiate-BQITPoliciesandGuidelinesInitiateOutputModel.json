@@ -1,0 +1,15 @@
+{
+  "iTPoliciesandGuidelinesServiceDescription" : "iTPoliciesandGuidelinesServiceDescription",
+  "iTPoliciesandGuidelinesInitiateActionReference" : "IAGIAR749573",
+  "iTPoliciesandGuidelines" : "iTPoliciesandGuidelines",
+  "iTPoliciesandGuidelinesInstanceStatus" : "iTPoliciesandGuidelinesInstanceStatus",
+  "iTPoliciesandGuidelinesServiceName" : "iTPoliciesandGuidelinesServiceName",
+  "iTPoliciesandGuidelinesVersionNumber" : "iTPoliciesandGuidelinesVersionNumber",
+  "iTPoliciesandGuidelinesInstanceReference" : "IAGIR708488",
+  "iTPoliciesandGuidelinesInitiateActionRecord" : {},
+  "iTPoliciesandGuidelinesServiceInputsandOuputs" : "iTPoliciesandGuidelinesServiceInputsandOuputs",
+  "iTPoliciesandGuidelinesPreconditions" : "iTPoliciesandGuidelinesPreconditions",
+  "iTPoliciesandGuidelinesSpecificationSchedule" : "iTPoliciesandGuidelinesSpecificationSchedule",
+  "iTPoliciesandGuidelinesServiceType" : "iTPoliciesandGuidelinesServiceType",
+  "iTPoliciesandGuidelinesServiceWorkProduct" : "iTPoliciesandGuidelinesServiceWorkProduct"
+}

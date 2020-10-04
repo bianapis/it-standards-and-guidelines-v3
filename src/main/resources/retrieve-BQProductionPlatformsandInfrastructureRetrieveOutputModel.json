@@ -1,0 +1,26 @@
+{
+  "productionPlatformsandInfrastructureServiceInputsandOuputs" : "productionPlatformsandInfrastructureServiceInputsandOuputs",
+  "productionPlatformsandInfrastructureInstanceAnalysis" : {
+    "productionPlatformsandInfrastructureInstanceAnalysisReport" : {},
+    "productionPlatformsandInfrastructureInstanceAnalysisRecord" : {},
+    "productionPlatformsandInfrastructureInstanceAnalysisReportType" : "productionPlatformsandInfrastructureInstanceAnalysisReportType",
+    "productionPlatformsandInfrastructureInstanceAnalysisParameters" : "productionPlatformsandInfrastructureInstanceAnalysisParameters"
+  },
+  "productionPlatformsandInfrastructureRetrieveActionResponse" : "productionPlatformsandInfrastructureRetrieveActionResponse",
+  "productionPlatformsandInfrastructureRetrieveActionTaskReference" : "PPAIRATR777966",
+  "productionPlatformsandInfrastructureServiceWorkProduct" : "productionPlatformsandInfrastructureServiceWorkProduct",
+  "productionPlatformsandInfrastructure" : "productionPlatformsandInfrastructure",
+  "productionPlatformsandInfrastructureServiceName" : "productionPlatformsandInfrastructureServiceName",
+  "productionPlatformsandInfrastructureInstanceReport" : {
+    "productionPlatformsandInfrastructureInstanceReportType" : "productionPlatformsandInfrastructureInstanceReportType",
+    "productionPlatformsandInfrastructureInstanceReport" : {},
+    "productionPlatformsandInfrastructureInstanceReportParameters" : "productionPlatformsandInfrastructureInstanceReportParameters",
+    "productionPlatformsandInfrastructureInstanceReportRecord" : {}
+  },
+  "productionPlatformsandInfrastructureSpecificationSchedule" : "productionPlatformsandInfrastructureSpecificationSchedule",
+  "productionPlatformsandInfrastructurePreconditions" : "productionPlatformsandInfrastructurePreconditions",
+  "productionPlatformsandInfrastructureRetrieveActionTaskRecord" : {},
+  "productionPlatformsandInfrastructureVersionNumber" : "productionPlatformsandInfrastructureVersionNumber",
+  "productionPlatformsandInfrastructureServiceType" : "productionPlatformsandInfrastructureServiceType",
+  "productionPlatformsandInfrastructureServiceDescription" : "productionPlatformsandInfrastructureServiceDescription"
+}

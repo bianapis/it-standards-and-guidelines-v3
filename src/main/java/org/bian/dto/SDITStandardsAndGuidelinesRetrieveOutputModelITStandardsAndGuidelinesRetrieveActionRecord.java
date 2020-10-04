@@ -1,0 +1,67 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.SDITStandardsAndGuidelinesRetrieveOutputModelITStandardsAndGuidelinesRetrieveActionRecordControlRecordPortfolioAnalysis;
+import org.bian.dto.SDITStandardsAndGuidelinesRetrieveOutputModelITStandardsAndGuidelinesRetrieveActionRecordITStandardsAndGuidelinesActivityAnalysis;
+import org.bian.dto.SDITStandardsAndGuidelinesRetrieveOutputModelITStandardsAndGuidelinesRetrieveActionRecordITStandardsAndGuidelinesPerformanceAnalysis;
+
+import javax.validation.Valid;
+  
+/**
+ * SDITStandardsAndGuidelinesRetrieveOutputModelITStandardsAndGuidelinesRetrieveActionRecord
+ */
+public class SDITStandardsAndGuidelinesRetrieveOutputModelITStandardsAndGuidelinesRetrieveActionRecord   {
+  private SDITStandardsAndGuidelinesRetrieveOutputModelITStandardsAndGuidelinesRetrieveActionRecordITStandardsAndGuidelinesActivityAnalysis iTStandardsAndGuidelinesActivityAnalysis = null;
+
+  private SDITStandardsAndGuidelinesRetrieveOutputModelITStandardsAndGuidelinesRetrieveActionRecordITStandardsAndGuidelinesPerformanceAnalysis iTStandardsAndGuidelinesPerformanceAnalysis = null;
+
+  private SDITStandardsAndGuidelinesRetrieveOutputModelITStandardsAndGuidelinesRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis = null;
+
+
+  /**
+   * Get iTStandardsAndGuidelinesActivityAnalysis
+   * @return iTStandardsAndGuidelinesActivityAnalysis
+  **/
+
+  public SDITStandardsAndGuidelinesRetrieveOutputModelITStandardsAndGuidelinesRetrieveActionRecordITStandardsAndGuidelinesActivityAnalysis getITStandardsAndGuidelinesActivityAnalysis() {
+    return iTStandardsAndGuidelinesActivityAnalysis;
+  }
+
+  public void setITStandardsAndGuidelinesActivityAnalysis(SDITStandardsAndGuidelinesRetrieveOutputModelITStandardsAndGuidelinesRetrieveActionRecordITStandardsAndGuidelinesActivityAnalysis iTStandardsAndGuidelinesActivityAnalysis) {
+    this.iTStandardsAndGuidelinesActivityAnalysis = iTStandardsAndGuidelinesActivityAnalysis;
+  }
+
+
+  /**
+   * Get iTStandardsAndGuidelinesPerformanceAnalysis
+   * @return iTStandardsAndGuidelinesPerformanceAnalysis
+  **/
+
+  public SDITStandardsAndGuidelinesRetrieveOutputModelITStandardsAndGuidelinesRetrieveActionRecordITStandardsAndGuidelinesPerformanceAnalysis getITStandardsAndGuidelinesPerformanceAnalysis() {
+    return iTStandardsAndGuidelinesPerformanceAnalysis;
+  }
+
+  public void setITStandardsAndGuidelinesPerformanceAnalysis(SDITStandardsAndGuidelinesRetrieveOutputModelITStandardsAndGuidelinesRetrieveActionRecordITStandardsAndGuidelinesPerformanceAnalysis iTStandardsAndGuidelinesPerformanceAnalysis) {
+    this.iTStandardsAndGuidelinesPerformanceAnalysis = iTStandardsAndGuidelinesPerformanceAnalysis;
+  }
+
+
+  /**
+   * Get controlRecordPortfolioAnalysis
+   * @return controlRecordPortfolioAnalysis
+  **/
+
+  public SDITStandardsAndGuidelinesRetrieveOutputModelITStandardsAndGuidelinesRetrieveActionRecordControlRecordPortfolioAnalysis getControlRecordPortfolioAnalysis() {
+    return controlRecordPortfolioAnalysis;
+  }
+
+  public void setControlRecordPortfolioAnalysis(SDITStandardsAndGuidelinesRetrieveOutputModelITStandardsAndGuidelinesRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis) {
+    this.controlRecordPortfolioAnalysis = controlRecordPortfolioAnalysis;
+  }
+
+
+}
+

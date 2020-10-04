@@ -1,0 +1,15 @@
+{
+  "productTestingandDeploymentMechanismsPreconditions" : "productTestingandDeploymentMechanismsPreconditions",
+  "productTestingandDeploymentMechanismsServiceInputsandOuputs" : "productTestingandDeploymentMechanismsServiceInputsandOuputs",
+  "productTestingandDeploymentMechanismsInstanceStatus" : "productTestingandDeploymentMechanismsInstanceStatus",
+  "productTestingandDeploymentMechanismsServiceWorkProduct" : "productTestingandDeploymentMechanismsServiceWorkProduct",
+  "productTestingandDeploymentMechanismsInitiateActionReference" : "PTADMIAR717302",
+  "productTestingandDeploymentMechanismsVersionNumber" : "productTestingandDeploymentMechanismsVersionNumber",
+  "productTestingandDeploymentMechanisms" : "productTestingandDeploymentMechanisms",
+  "productTestingandDeploymentMechanismsServiceType" : "productTestingandDeploymentMechanismsServiceType",
+  "productTestingandDeploymentMechanismsInitiateActionRecord" : {},
+  "productTestingandDeploymentMechanismsServiceDescription" : "productTestingandDeploymentMechanismsServiceDescription",
+  "productTestingandDeploymentMechanismsInstanceReference" : "PTADMIR721384",
+  "productTestingandDeploymentMechanismsServiceName" : "productTestingandDeploymentMechanismsServiceName",
+  "productTestingandDeploymentMechanismsSpecificationSchedule" : "productTestingandDeploymentMechanismsSpecificationSchedule"
+}

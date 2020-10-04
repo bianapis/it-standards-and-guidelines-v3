@@ -1,0 +1,23 @@
+{
+  "technologyStandardsSpecificationStatus" : "technologyStandardsSpecificationStatus",
+  "technologyStandardsSpecificationRetrieveActionTaskRecord" : {},
+  "technologyStandardsSpecificationInstanceAnalysis" : {
+    "technologyStandardsSpecificationInstanceAnalysisReport" : {},
+    "technologyStandardsSpecificationInstanceAnalysisData" : "technologyStandardsSpecificationInstanceAnalysisData",
+    "technologyStandardsSpecificationInstanceAnalysisReportType" : "technologyStandardsSpecificationInstanceAnalysisReportType"
+  },
+  "technologyStandardsSpecificationInstanceReportRecord" : {
+    "technologyStandardsSpecificationInstanceReportType" : "technologyStandardsSpecificationInstanceReportType",
+    "technologyStandardsSpecificationInstanceReport" : {},
+    "technologyStandardsSpecificationInstanceReportData" : "technologyStandardsSpecificationInstanceReportData"
+  },
+  "technologyStandardsSpecificationSelectedOption" : "technologyStandardsSpecificationSelectedOption",
+  "technologyStandardsSpecificationRetrieveActionTaskReference" : "TSSRATR726618",
+  "technologyStandardsSpecificationRetrieveActionResponse" : "technologyStandardsSpecificationRetrieveActionResponse",
+  "technologyStandardsSpecificationParameterType" : "technologyStandardsSpecificationParameterType",
+  "technologyStandardsSpecificationUsageLog" : "technologyStandardsSpecificationUsageLog",
+  "technologyStandardsSpecificationDescription" : "technologyStandardsSpecificationDescription",
+  "technologyStandardsSpecificationVersion" : "technologyStandardsSpecificationVersion",
+  "technologyStandardsSpecificationFeedback" : "technologyStandardsSpecificationFeedback",
+  "technologyStandardsSpecificationServiceProviderReference" : "TSSSR766686"
+}

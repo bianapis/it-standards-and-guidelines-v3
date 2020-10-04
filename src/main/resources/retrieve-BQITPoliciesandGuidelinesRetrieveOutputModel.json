@@ -1,0 +1,26 @@
+{
+  "iTPoliciesandGuidelinesServiceDescription" : "iTPoliciesandGuidelinesServiceDescription",
+  "iTPoliciesandGuidelines" : "iTPoliciesandGuidelines",
+  "iTPoliciesandGuidelinesRetrieveActionTaskReference" : "IAGRATR722766",
+  "iTPoliciesandGuidelinesInstanceReport" : {
+    "iTPoliciesandGuidelinesInstanceReportType" : "iTPoliciesandGuidelinesInstanceReportType",
+    "iTPoliciesandGuidelinesInstanceReport" : {},
+    "iTPoliciesandGuidelinesInstanceReportRecord" : {},
+    "iTPoliciesandGuidelinesInstanceReportParameters" : "iTPoliciesandGuidelinesInstanceReportParameters"
+  },
+  "iTPoliciesandGuidelinesInstanceAnalysis" : {
+    "iTPoliciesandGuidelinesInstanceAnalysisParameters" : "iTPoliciesandGuidelinesInstanceAnalysisParameters",
+    "iTPoliciesandGuidelinesInstanceAnalysisReport" : {},
+    "iTPoliciesandGuidelinesInstanceAnalysisReportType" : "iTPoliciesandGuidelinesInstanceAnalysisReportType",
+    "iTPoliciesandGuidelinesInstanceAnalysisRecord" : {}
+  },
+  "iTPoliciesandGuidelinesRetrieveActionTaskRecord" : {},
+  "iTPoliciesandGuidelinesServiceName" : "iTPoliciesandGuidelinesServiceName",
+  "iTPoliciesandGuidelinesVersionNumber" : "iTPoliciesandGuidelinesVersionNumber",
+  "iTPoliciesandGuidelinesServiceInputsandOuputs" : "iTPoliciesandGuidelinesServiceInputsandOuputs",
+  "iTPoliciesandGuidelinesPreconditions" : "iTPoliciesandGuidelinesPreconditions",
+  "iTPoliciesandGuidelinesRetrieveActionResponse" : "iTPoliciesandGuidelinesRetrieveActionResponse",
+  "iTPoliciesandGuidelinesSpecificationSchedule" : "iTPoliciesandGuidelinesSpecificationSchedule",
+  "iTPoliciesandGuidelinesServiceType" : "iTPoliciesandGuidelinesServiceType",
+  "iTPoliciesandGuidelinesServiceWorkProduct" : "iTPoliciesandGuidelinesServiceWorkProduct"
+}

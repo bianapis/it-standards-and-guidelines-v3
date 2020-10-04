@@ -1,0 +1,24 @@
+{
+  "iTStandardsAndGuidelinesActivationActionTaskRecord" : {},
+  "iTStandardsAndGuidelinesServicingSessionReference" : "SSSR783215",
+  "iTStandardsAndGuidelinesServicingSessionStatus" : "iTStandardsAndGuidelinesServicingSessionStatus",
+  "iTStandardsAndGuidelinesActivationActionTaskReference" : "SAATR758836",
+  "iTStandardsAndGuidelinesServicingSessionRecord" : {},
+  "iTStandardsAndGuidelinesServiceConfigurationRecord" : {
+    "iTStandardsAndGuidelinesServiceStatus" : "iTStandardsAndGuidelinesServiceStatus",
+    "iTStandardsAndGuidelinesServiceConfigurationSettingDescription" : "iTStandardsAndGuidelinesServiceConfigurationSettingDescription",
+    "iTStandardsAndGuidelinesServiceConfigurationSetup" : {
+      "iTStandardsAndGuidelinesServiceConfigurationParameter" : "iTStandardsAndGuidelinesServiceConfigurationParameter"
+    },
+    "iTStandardsAndGuidelinesServiceConfigurationSettingReference" : "700761",
+    "iTStandardsAndGuidelinesServiceSubscription" : {
+      "iTStandardsAndGuidelinesServiceSubscriberReference" : "769192",
+      "iTStandardsAndGuidelinesServiceSubscriberAccessProfile" : "iTStandardsAndGuidelinesServiceSubscriberAccessProfile"
+    },
+    "iTStandardsAndGuidelinesServiceAgreement" : {
+      "iTStandardsAndGuidelinesServiceUserReference" : "767210",
+      "iTStandardsAndGuidelinesServiceAgreementTermsandConditions" : "iTStandardsAndGuidelinesServiceAgreementTermsandConditions",
+      "iTStandardsAndGuidelinesServiceAgreementReference" : "791202"
+    }
+  }
+}
